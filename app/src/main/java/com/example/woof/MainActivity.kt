@@ -46,9 +46,7 @@ class MainActivity : ComponentActivity() {
     }
 }
 
-/**
- * Composable that displays an app bar and a list of dogs.
- */
+
 @Composable
 fun WoofApp() {
     Scaffold(
